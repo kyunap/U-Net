@@ -21,7 +21,6 @@ from albumentations.core.composition import Compose, OneOf
 
 from PIL import Image
 
-# 사용자 정의
 import preprocess
 import utils
 import models
